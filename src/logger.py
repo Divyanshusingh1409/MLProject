@@ -15,6 +15,3 @@ logging.basicConfig(
 
 
 )
-
-if __name__=="_main_":
-    logging.info("Logging has started")
